@@ -1,0 +1,32 @@
+header h1{
+    text-align: center;
+    color: antiquewhite;
+
+
+background-color: black;
+
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    align-items: center;
+
+}
+    
+nav{
+    a{
+        text-decoration: none;
+        color: black;
+        padding: 5px;
+        border-left: 2px solid white;
+        
+
+
+
+    }
+}
+#main section{
+    display: flex;
+}
